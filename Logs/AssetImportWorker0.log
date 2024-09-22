@@ -190,3 +190,426 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 486736.786732 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(68b4897597cf04ebc8a127527c972f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(68b4897597cf04ebc8a127527c972f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9a64d9d295546a032b2cef1fcd5982d3') in 0.021310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.073781 seconds.
+  path: Assets/Scenes/Prototype 3.unity
+  artifactKey: Guid(dc8c9f3efd746429fa6f9482dc779492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prototype 3.unity using Guid(dc8c9f3efd746429fa6f9482dc779492) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ca468d5c88c92ac1fd72c9d6377d88a8') in 0.000358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 35.849896 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/Background_Nature.png
+  artifactKey: Guid(17881b719d84f46169e88d04d594eb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/Background_Nature.png using Guid(17881b719d84f46169e88d04d594eb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9d2670a44e795793b0110d519995143d') in 0.198883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/PolygonNature_01.png
+  artifactKey: Guid(2edd58f7c433e934db9029c375173b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/PolygonNature_01.png using Guid(2edd58f7c433e934db9029c375173b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1e480f02bba13fcbbb04614c28dbdaef') in 0.004948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_04.png
+  artifactKey: Guid(56d0dcfd4f388074b86b2ca24191e027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_04.png using Guid(56d0dcfd4f388074b86b2ca24191e027) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '46361e9b6227916268b911e698ae8097') in 0.016906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.119370 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/Background_City.png
+  artifactKey: Guid(66ce0fda7508547d2be6b20eac53f119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/Background_City.png using Guid(66ce0fda7508547d2be6b20eac53f119) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7fd6be128a7ca7c64f1f511731444153') in 0.008681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 81.682382 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/Signs_00.png
+  artifactKey: Guid(c050c2762aa6b874bac5c0b0c224bc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/Signs_00.png using Guid(c050c2762aa6b874bac5c0b0c224bc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '348d7feebf2d0c2825583164d679af0f') in 0.041616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.135484 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png
+  artifactKey: Guid(8fddee26d7af656469060882f739f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png using Guid(8fddee26d7af656469060882f739f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8086b43bfdacaad232fa5d8a95a2d7dc') in 0.006400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.693993 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png
+  artifactKey: Guid(065c4bcb58412d949a264763a07a818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png using Guid(065c4bcb58412d949a264763a07a818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c3386e0e4785349b6bced69ea37eda01') in 0.010041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.021562 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png
+  artifactKey: Guid(b5439d586ec428a40aef081b40d65655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png using Guid(b5439d586ec428a40aef081b40d65655) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '02df107d596a741aaaf5af01dcdd6e27') in 0.009137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.459013 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png
+  artifactKey: Guid(96100b630096bb24b8ec619d9e6b1211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png using Guid(96100b630096bb24b8ec619d9e6b1211) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ca481215add4686befda1ddfe6b67238') in 0.008677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.201558 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png
+  artifactKey: Guid(144811adb05d9874fab57bf4b53356a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png using Guid(144811adb05d9874fab57bf4b53356a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e40c0ee57282e4d0f5fc409ee7fc0f71') in 0.005901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.314793 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png
+  artifactKey: Guid(bde8e4ecd0b2f344bb3b0d5bc6f7fc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png using Guid(bde8e4ecd0b2f344bb3b0d5bc6f7fc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0c12e89cd0ffc5954010db2188d0eab3') in 0.006073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.124694 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png
+  artifactKey: Guid(1d2be5615bea5d44f97a1c40b5c11815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png using Guid(1d2be5615bea5d44f97a1c40b5c11815) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '70665e8c1503d6bd16d800955b41e483') in 0.008070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.239707 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png
+  artifactKey: Guid(6e4a419d05af9f049b1f7cdca7274f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png using Guid(6e4a419d05af9f049b1f7cdca7274f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '69c857c261cd7105c3ba87fda903e8ab') in 0.007180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.462740 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png
+  artifactKey: Guid(f555d3f85b4960e4287918ec81c10d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png using Guid(f555d3f85b4960e4287918ec81c10d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '73ec9295f5ea381e7b74bfbb8e9554bd') in 0.022731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.029273 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png
+  artifactKey: Guid(e3f5ae7056ee847478654d8ef6f4c4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png using Guid(e3f5ae7056ee847478654d8ef6f4c4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f5b48eefdca856b16eb757804b13602d') in 0.005436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.037394 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png
+  artifactKey: Guid(45eb17d5fe65a6942aee37575c20cf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png using Guid(45eb17d5fe65a6942aee37575c20cf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '608a68083b87a13b70b520d0d62f3dd9') in 0.004510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.045933 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png
+  artifactKey: Guid(38afee6b97f1660489dfceac21653a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png using Guid(38afee6b97f1660489dfceac21653a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b70013c1539a4043fa2287818506436e') in 0.004266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.027292 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimplePeople_BeachBabe_Black.png
+  artifactKey: Guid(3b5da37f4a0c7dc4cb0d29868a1bdaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimplePeople_BeachBabe_Black.png using Guid(3b5da37f4a0c7dc4cb0d29868a1bdaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a9a6705691cefc262f1d46e111ee9f69') in 0.010625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.939471 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_Black.png
+  artifactKey: Guid(9506c885cd9fa144e9142a03fbd99dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_Black.png using Guid(9506c885cd9fa144e9142a03fbd99dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '02442ead00cd84505a1e9e95c8e52b34') in 0.005877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.978798 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_Brown.png
+  artifactKey: Guid(5d6795382a9cf8e45a68ba4346c66efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_Brown.png using Guid(5d6795382a9cf8e45a68ba4346c66efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1db0888c0172b7367054ffc90d5c2070') in 0.008868 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.174572 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_White.png
+  artifactKey: Guid(12e281a5b44dcce4393d675312775b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimplePeople_BusinessMan_White.png using Guid(12e281a5b44dcce4393d675312775b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '36868964dda28faeef71f8b98b872738') in 0.009290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.149843 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/SimplePeople_Doctor_Black.png
+  artifactKey: Guid(002f8de457afeef49b3d5456f61586ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/SimplePeople_Doctor_Black.png using Guid(002f8de457afeef49b3d5456f61586ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd388d6ce766000bcead499e60ed618a5') in 0.007147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 28.366713 seconds.
+  path: Assets/Course Library/Characters/Farm
+  artifactKey: Guid(9032ce177a9f74d5f8e7743a2d35e3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm using Guid(9032ce177a9f74d5f8e7743a2d35e3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bfa58c9e1b88ef342d30d1a40f75f1aa') in 0.007770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.048475 seconds.
+  path: Assets/Course Library/Characters/Farm/SimpleFarmer_Man_01_Black.prefab
+  artifactKey: Guid(f8abbdd178867d2419ba9feb6ff2cba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm/SimpleFarmer_Man_01_Black.prefab using Guid(f8abbdd178867d2419ba9feb6ff2cba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5ec5effe4dbc1fbf41d1693f800f1ea8') in 0.220688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 223
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Course Library/Characters/Farm/SimpleFarmer_Man_02_Brown.prefab
+  artifactKey: Guid(814f4326a50812947b2469896d89a215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm/SimpleFarmer_Man_02_Brown.prefab using Guid(814f4326a50812947b2469896d89a215) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'db024795910b5c82373010832cd68b01') in 0.036422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 223
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Course Library/Characters/Farm/SimpleFarmer_Man_02_White.prefab
+  artifactKey: Guid(7b6675de545141649953fd8adec4561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm/SimpleFarmer_Man_02_White.prefab using Guid(7b6675de545141649953fd8adec4561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0a7642d2c209d1ef94f5f8129dbc9185') in 0.015459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 223
+========================================================================
+Received Import Request.
+  Time since last request: 1.940320 seconds.
+  path: Assets/Course Library/Characters/Farm/SimpleFarmer_Woman_01_Black.prefab
+  artifactKey: Guid(2af1fa464b69e4c4cb1a408373c7d971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm/SimpleFarmer_Woman_01_Black.prefab using Guid(2af1fa464b69e4c4cb1a408373c7d971) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5af937b9df746a56931137242968dfa') in 0.020283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 223
+========================================================================
+Received Import Request.
+  Time since last request: 0.132700 seconds.
+  path: Assets/Course Library/Characters/Farm/SimpleFarmer_Woman_01_Brown.prefab
+  artifactKey: Guid(f3f69bcf5a1514c458ed5c9b96f28e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Farm/SimpleFarmer_Woman_01_Brown.prefab using Guid(f3f69bcf5a1514c458ed5c9b96f28e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0a2bec6340f65aa30e3f5c1b6f48d7e0') in 0.018089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 223
+========================================================================
+Received Import Request.
+  Time since last request: 8.244175 seconds.
+  path: Assets/Course Library/Characters/Town
+  artifactKey: Guid(1c40e59f62d66499483f34d7d8e9fc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Town using Guid(1c40e59f62d66499483f34d7d8e9fc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '03f8134f460163296113b952b49e155f') in 0.030419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.060831 seconds.
+  path: Assets/Course Library/Characters/Town/SimplePeople_Man_Business_Black.prefab
+  artifactKey: Guid(2f8d00bf5057f624e949aef802595da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Town/SimplePeople_Man_Business_Black.prefab using Guid(2f8d00bf5057f624e949aef802595da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'faa31ed10cd03fc276965555d3d44f8e') in 0.045173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 404
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Course Library/Characters/Town/SimplePeople_Man_Punk_White.prefab
+  artifactKey: Guid(f147a01ef442b2345a3546109476c690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Town/SimplePeople_Man_Punk_White.prefab using Guid(f147a01ef442b2345a3546109476c690) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b49f277f45239ece629a169c027490c8') in 0.035770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 404
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Course Library/Characters/Town/SimplePeople_Man_Punk_Brown.prefab
+  artifactKey: Guid(4a7c3ad7168bb834b87a91e3f94ad3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Characters/Town/SimplePeople_Man_Punk_Brown.prefab using Guid(4a7c3ad7168bb834b87a91e3f94ad3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e50bf8011b33c7d0ec865164f185e4c0') in 0.021697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 404
+========================================================================
+Received Import Request.
+  Time since last request: 873.116014 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(3f3f722571a7648038f5339268fd4f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3f3f722571a7648038f5339268fd4f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eb8e2f8934d59c1b2469957dd8f566e7') in 0.012727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 18.749587 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(8e95932cd71634893b1d09f368093f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(8e95932cd71634893b1d09f368093f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9a5a4e69269fd4c6cf404ffaaaf4d699') in 0.010697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x28d557000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.502 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.805 seconds
+Domain Reload Profiling: 1306ms
+	BeginReloadAssembly (289ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (113ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (217ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (39ms)
+			TypeCache.Refresh (26ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (805ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (313ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (32ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3083 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (46.4 KB). Loaded Objects now: 3573.
+Memory consumption went from 139.1 MB to 139.0 MB.
+Total: 3.012667 ms (FindLiveObjects: 0.113334 ms CreateObjectMapping: 0.066875 ms MarkObjects: 2.775041 ms  DeleteObjects: 0.056958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/PlayerController.cs: d93a52a180fbbe603a59e9aa6da73c83 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 689ac4cfa059403eb80ec06ed201e2d6 -> 
